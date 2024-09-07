@@ -4,7 +4,7 @@ namespace LoginSystem.Models;
 
 public class Interface
 {
-    const string file = @"C:\UserData\UserData.txt";
+    const string file = @"C:\UserData\UserData.txt"; // Caminho em que o arquivo.txt foi criado.
 
     public static void Menu()
     {
